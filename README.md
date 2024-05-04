@@ -1,1 +1,1 @@
-"# cnn_practice_minst" 
+"# cnn_practice_mnist" 
